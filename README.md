@@ -35,5 +35,5 @@ Network architecture is the same as used [here](https://arxiv.org/pdf/1509.06461
 ### To do ###
 - Improve documentation
 - Add ability to remember frontiers
-- Debug and get this to work fully
+- Debug and get this to work fully (like getting the bash file to work)
 
