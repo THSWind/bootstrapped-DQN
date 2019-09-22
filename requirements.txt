@@ -1,0 +1,5 @@
+numpy-1.17.2
+tensorflow-1.14.0
+pip-19.2.3
+
+opencv-
